@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmet\\Masa\u00FCst\u00FC\\C M\u00FClakat Sorular\u0131\\Level_0\\Clock_Function\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5C6862-D7EC-45F2-8BF4-ECC636EC190E}|Clock_Function\\Clock_Function.vcxproj|C:\\Users\\ahmet\\Masa\u00FCst\u00FC\\C M\u00FClakat Sorular\u0131\\Level_0\\Clock_Function\\Clock_Function\\Clock_Function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A5C6862-D7EC-45F2-8BF4-ECC636EC190E}|Clock_Function\\Clock_Function.vcxproj|solutionrelative:Clock_Function\\Clock_Function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clock_Function.c",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Masa\u00FCst\u00FC\\C M\u00FClakat Sorular\u0131\\Level_0\\Clock_Function\\Clock_Function\\Clock_Function.c",
+              "RelativeDocumentMoniker": "Clock_Function\\Clock_Function.c",
+              "ToolTip": "C:\\Users\\ahmet\\Masa\u00FCst\u00FC\\C M\u00FClakat Sorular\u0131\\Level_0\\Clock_Function\\Clock_Function\\Clock_Function.c",
+              "RelativeToolTip": "Clock_Function\\Clock_Function.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-08T07:56:33.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

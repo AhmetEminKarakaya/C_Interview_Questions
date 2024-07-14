@@ -1,0 +1,3 @@
+﻿  create_dynamic_array.c
+C:\Users\ahmet\Masaüstü\C Mülakat Soruları\Level_1\create_dynamic_array\create_dynamic_array\create_dynamic_array.c(15,5): warning C4047: '=': 'int', yöneltme düzeyi sayısı bakımından 'int *' ile aynı değil
+C:\Users\ahmet\Masaüstü\C Mülakat Soruları\Level_1\create_dynamic_array\create_dynamic_array\create_dynamic_array.c(15,1): error C4700: başlatılmamış yerel değişken 'p' kullanıldı

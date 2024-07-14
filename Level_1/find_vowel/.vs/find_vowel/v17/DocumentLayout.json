@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmet\\Masa\u00FCst\u00FC\\C M\u00FClakat Sorular\u0131\\Level_1\\find_vowel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC305B2-5B8F-4E24-8D82-6E3E3EA87888}|find_vowel\\find_vowel.vcxproj|C:\\Users\\ahmet\\Masa\u00FCst\u00FC\\C M\u00FClakat Sorular\u0131\\Level_1\\find_vowel\\find_vowel\\find_vowel.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFC305B2-5B8F-4E24-8D82-6E3E3EA87888}|find_vowel\\find_vowel.vcxproj|solutionrelative:find_vowel\\find_vowel.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "find_vowel.c",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Masa\u00FCst\u00FC\\C M\u00FClakat Sorular\u0131\\Level_1\\find_vowel\\find_vowel\\find_vowel.c",
+              "RelativeDocumentMoniker": "find_vowel\\find_vowel.c",
+              "ToolTip": "C:\\Users\\ahmet\\Masa\u00FCst\u00FC\\C M\u00FClakat Sorular\u0131\\Level_1\\find_vowel\\find_vowel\\find_vowel.c",
+              "RelativeToolTip": "find_vowel\\find_vowel.c",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-09T09:37:03.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

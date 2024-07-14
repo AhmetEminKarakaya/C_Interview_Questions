@@ -1,0 +1,10 @@
+﻿  function_macro.c
+C:\Users\ahmet\Masaüstü\C Mülakat Soruları\Level_1\function_macro\function_macro\function_macro.c(11,12): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'unsigned __int64'
+  C:\Users\ahmet\Masaüstü\C Mülakat Soruları\Level_1\function_macro\function_macro\function_macro.c(11,12):
+  biçim dizesinde '%lld' kullanmayı düşünün
+  C:\Users\ahmet\Masaüstü\C Mülakat Soruları\Level_1\function_macro\function_macro\function_macro.c(11,12):
+  biçim dizesinde '%Id' kullanmayı düşünün
+  C:\Users\ahmet\Masaüstü\C Mülakat Soruları\Level_1\function_macro\function_macro\function_macro.c(11,12):
+  biçim dizesinde '%I64d' kullanmayı düşünün
+  
+  function_macro.vcxproj -> C:\Users\ahmet\Masaüstü\C Mülakat Soruları\Level_1\function_macro\x64\Debug\function_macro.exe

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmet\\Masa\u00FCst\u00FC\\C M\u00FClakat Sorular\u0131\\Level_3\\convert_integer_to_binary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8225F3C7-063B-4B74-A60D-638F942CEFCA}|convert_integer_to_binary\\convert_integer_to_binary.vcxproj|C:\\Users\\ahmet\\Masa\u00FCst\u00FC\\C M\u00FClakat Sorular\u0131\\Level_3\\convert_integer_to_binary\\convert_integer_to_binary\\convert_integer_to_binary.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8225F3C7-063B-4B74-A60D-638F942CEFCA}|convert_integer_to_binary\\convert_integer_to_binary.vcxproj|solutionrelative:convert_integer_to_binary\\convert_integer_to_binary.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 256,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "convert_integer_to_binary.c",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Masa\u00FCst\u00FC\\C M\u00FClakat Sorular\u0131\\Level_3\\convert_integer_to_binary\\convert_integer_to_binary\\convert_integer_to_binary.c",
+              "RelativeDocumentMoniker": "convert_integer_to_binary\\convert_integer_to_binary.c",
+              "ToolTip": "C:\\Users\\ahmet\\Masa\u00FCst\u00FC\\C M\u00FClakat Sorular\u0131\\Level_3\\convert_integer_to_binary\\convert_integer_to_binary\\convert_integer_to_binary.c",
+              "RelativeToolTip": "convert_integer_to_binary\\convert_integer_to_binary.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-14T08:12:14.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

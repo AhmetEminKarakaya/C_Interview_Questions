@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmet\\Masa\u00FCst\u00FC\\C M\u00FClakat Sorular\u0131\\Level_1\\perfect_number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E90F5F8F-BDEB-4B20-B0EF-8D1EEA259924}|perfect_number\\perfect_number.vcxproj|C:\\Users\\ahmet\\Masa\u00FCst\u00FC\\C M\u00FClakat Sorular\u0131\\Level_1\\perfect_number\\perfect_number\\perfect_number.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E90F5F8F-BDEB-4B20-B0EF-8D1EEA259924}|perfect_number\\perfect_number.vcxproj|solutionrelative:perfect_number\\perfect_number.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "perfect_number.c",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Masa\u00FCst\u00FC\\C M\u00FClakat Sorular\u0131\\Level_1\\perfect_number\\perfect_number\\perfect_number.c",
+              "RelativeDocumentMoniker": "perfect_number\\perfect_number.c",
+              "ToolTip": "C:\\Users\\ahmet\\Masa\u00FCst\u00FC\\C M\u00FClakat Sorular\u0131\\Level_1\\perfect_number\\perfect_number\\perfect_number.c",
+              "RelativeToolTip": "perfect_number\\perfect_number.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-09T11:04:05.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
